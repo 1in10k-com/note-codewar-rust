@@ -73,3 +73,12 @@ Remove First and Last Character
 //目前太难，先不掌握，答案：https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/solutions
 ```
 
+String repeat
+```
+fn repeat_str(src: &str, count: usize) -> String {
+  src.repeat(count)
+}
+// repeat是str的方法
+// The str type, also called a ‘string slice’, is the most primitive string type. It is usually seen in its borrowed form, &str. It is also the type of string literals, &'static str.
+```
+
