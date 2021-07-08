@@ -81,4 +81,6 @@ fn repeat_str(src: &str, count: usize) -> String {
 // repeat是str的方法
 // The str type, also called a ‘string slice’, is the most primitive string type. It is usually seen in its borrowed form, &str. It is also the type of string literals, &'static str.
 ```
-
+Calculate BMI
+![](../note-rust-yx/images/2021-07-08-14-54-48.png)
+注意这两种方式来match
