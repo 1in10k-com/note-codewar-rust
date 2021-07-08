@@ -84,3 +84,12 @@ fn repeat_str(src: &str, count: usize) -> String {
 Calculate BMI
 ![](../note-rust-yx/images/2021-07-08-14-54-48.png)
 注意这两种方式来match
+
+Find the first non-consecutive number  
+太难，以后再掌握 mark
+
+Multiplication table for number
+太难，以后再掌握 mark
+
+Keep Hydrated!
+![](../note-rust-yx/images/2021-07-08-22-15-49.png)
