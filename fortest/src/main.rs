@@ -1,17 +1,19 @@
-fn main() {
-    println!("hello moto");
-    let realarr = vec![1,3,4,7];
-    first_non_consecutive(&realarr);
+// fn main() {
+//     let res = abbrev_name("Da Jiba");
+//     println!("res is {}", res)
+// }
+// fn abbrev_name(name: &str) -> String {
+//     name.split(' ')
+//         .map(|x| x.chars().nth(0).unwrap().to_string().to_uppercase())
+//         .collect::<Vec<_>>()
+//         .join(".")
+// }
+#![feature(core_intrinsics)]
+fn print_type_of<T>(_: T) {
+    println!("{}", unsafe { std::intrinsics::type_name::<T>() });
 }
 
-fn first_non_consecutive(arr: &Vec<i32>) -> Option<i32> {
-    let mut older_i:&i32 = &1;
-    
-    for i in arr {
-        older_i = i;
-        println!("older_i is {}", i);
-        println!("i is {}", i);
-        
-    }
-    Some(1)
+fn main() {
+    let res = "da jiba".split(' ');
+    print_type_of(res);
 }

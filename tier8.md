@@ -93,3 +93,17 @@ Multiplication table for number
 
 Keep Hydrated!
 ![](../note-rust-yx/images/2021-07-08-22-15-49.png)
+***
+![](images/2021-07-10-16-05-37.png)
+//match bool似乎不需要用_ 
+***
+![](images/2021-07-10-16-14-22.png)
+***
+![](images/2021-07-10-16-22-51.png)
+![](images/2021-07-10-16-24-43.png)
+***
+Abbreviate a Two Word Name  
+重点，mark
+![](images/2021-07-10-16-27-51.png)
+.
+![](images/2021-07-10-16-28-27.png)
