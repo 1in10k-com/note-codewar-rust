@@ -107,3 +107,20 @@ Abbreviate a Two Word Name
 ![](images/2021-07-10-16-27-51.png)
 .
 ![](images/2021-07-10-16-28-27.png)
+***
+Calculate average
+![](images/2021-07-12-16-57-08.png)
+***
+MakeUpperCase  
+![](images/2021-07-12-17-06-14.png)
+换成大写，直接使用to_uppercase()就行。
+***
+Will there be enough space?   
+题目太复杂，略过
+***
+Holiday VIII - Duty Free
+题目太复杂，略过
+***
+Generate range of integers
+![](images/2021-07-12-17-27-17.png)
+step_by大概是按设置的参数作为间隔挑选集合中的值
