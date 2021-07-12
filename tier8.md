@@ -124,3 +124,9 @@ Holiday VIII - Duty Free
 Generate range of integers
 ![](images/2021-07-12-17-27-17.png)
 step_by大概是按设置的参数作为间隔挑选集合中的值
+***
+Counting sheep...
+![](images/2021-07-12-17-37-25.png)
+![](images/2021-07-12-17-43-28.png)
+最佳答案fliter涉及倒闭包知识，先不研究
+***
