@@ -1,4 +1,5 @@
 Get the mean of an array
+Get the mean of an array
 ```
 fn get_average(marks: &[f32]) -> f32 {
     let mut sum:f32 = 0.;
@@ -130,3 +131,4 @@ Counting sheep...
 ![](images/2021-07-12-17-43-28.png)
 最佳答案fliter涉及倒闭包知识，先不研究
 ***
+
