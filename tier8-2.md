@@ -37,3 +37,14 @@ zzzz 需要复习下最佳答案。
 ![](images/2021-07-13-19-40-51.png)
 注意中间是两个&&
 ***
+9 Count of positives / sum of negatives 
+![](images/2021-07-13-22-12-52.png)
+这段代码是错的，没考虑input是空的情况。
+![](images/2021-07-13-22-17-34.png)
+最佳答案。fold方法介绍：https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.fold
+***
+10 Remove String Spaces
+![](images/2021-07-13-22-38-20.png)
+replace用去替换字符串的内容。  
+split_whitespace()用于以空格为界限分割字符串。
+***
