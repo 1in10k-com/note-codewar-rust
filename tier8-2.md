@@ -73,5 +73,23 @@ chars() Returns an iterator over the chars of a string slice.  迭代字符。
 last() 返回迭代的最后一个元素。  
 nth(n) 返回迭代的第n个元素。
 ***
-
-
+16 Convert a Number to a String!
+![](images/2021-07-14-15-41-19.png)
+![](images/2021-07-14-15-44-20.png)
+***
+17 Grasshopper - Terminal game move function
+没看懂题目。llll
+***
+18 Reversed Strings
+![](images/2021-07-14-15-57-55.png)
+![](images/2021-07-14-15-58-46.png)
+可以像最佳答案这样用collect::<String>()手动指定类型。
+***
+19 Is he gonna survive?
+![](images/2021-07-14-16-37-32.png)
+可能导致乘法溢出，但暂时不考虑。
+***
+20 Grasshopper - Summation
+![](images/2021-07-14-17-13-40.png)
+zzzz 目前理解是用vec.iter().sum()，因为iter只能获得引用，但加起来不能输出为引用的结果（因为没有值给它引用），所以会报错。而用vec.into_iter().sum()因为获得了所有权，所以没问题，不用显式指定类型。而用vec.iter().sum::<i32>()，因为指定了输出为i32类型，所以虽然接收的是&i32，但仍然正常输出
+![](images/2021-07-14-17-14-32.png)
