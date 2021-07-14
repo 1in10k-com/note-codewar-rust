@@ -48,3 +48,30 @@ zzzz 需要复习下最佳答案。
 replace用去替换字符串的内容。  
 split_whitespace()用于以空格为界限分割字符串。
 ***
+11 Difference of Volumes of Cuboids
+![](images/2021-07-14-12-02-10.png)
+***
+12 Difference of Volumes of Cuboids
+![](images/2021-07-14-12-09-21.png)  
+a,b abs计算绝对值  
+c，product计算乘积。
+***
+13 A wolf in sheep's clothing
+![](images/2021-07-14-13-02-12.png)
+zzzz string::from 里面不能加变量，format! 可以。
+![](images/2021-07-14-13-08-32.png)
+rev让迭代器的序列颠倒。position获得元素在序列中的值，由some index,或none保存。unwrap获取some里的值。
+***
+14 Convert a Boolean to a String
+![](images/2021-07-14-13-20-43.png)
+![](images/2021-07-14-13-21-34.png)
+***
+15 The Feast of Many Beasts
+![](images/2021-07-14-15-24-52.png)
+![](images/2021-07-14-15-27-17.png)
+chars() Returns an iterator over the chars of a string slice.  迭代字符。  
+last() 返回迭代的最后一个元素。  
+nth(n) 返回迭代的第n个元素。
+***
+
+
