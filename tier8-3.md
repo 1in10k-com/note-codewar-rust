@@ -50,3 +50,40 @@ a,&str可以用[..1]获得第一个字符。
 b,parse()方法可以转换很多种类型。这里应该是通过函数签名自动推断为u32类型。  
 c,to_digit(10)方法把字符转换成10进制数字。
 ***
+11 N-th Power 
+![](images/2021-07-16-18-01-56.png)
+get方法，pow power n次方方法。
+***
+12 Filling an array (part 1)
+![](images/2021-07-16-18-11-14.png)
+![](images/2021-07-16-18-13-40.png)
+活用(0 .. n)这种方式。
+***
+13 Function 2 - squaring an argument 
+![](images/2021-07-16-18-20-48.png)
+***
+13 Dollars and Cents
+![](images/2021-07-16-19-09-12.png)
+{:02}固定写法，round取与其最接近的整数。
+***
+14 Beginner Series #2 Clock
+![](images/2021-07-16-19-14-06.png)
+***
+15 Holiday VI - Shark Pontoon
+太长不看
+***
+16 Multiply
+![](images/2021-07-16-19-15-47.png)
+***
+17 Check the exam
+![](images/2021-07-16-19-39-06.png)
+zzzz  
+test能通过，但random不能，不知啥原因。  
+![](images/2021-07-16-19-49-23.png)
+zip，链接两个迭代器。fold把元素弄进计算器、叠加器。max(n)取值和n中的最大值。
+***
+18 Switch it Up!
+![](images/2021-07-16-19-54-39.png)
+![](images/2021-07-16-19-55-44.png)
+这个方法不错。
+***

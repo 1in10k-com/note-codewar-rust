@@ -28,11 +28,14 @@ fn quarter_of(month: u8) -> u8 {
 //1，2，3这样是错的
 //_匹配其余所有值
 ```
-
+***
 Reversed Words
 ```
 太难，先不处理
 ```
+![](images/2021-07-16-17-19-47.png)
+split(" ") split_whitespace() 以空格为标准，将一个字符串划分为多个。
+***
 
 Gravity Flip
 ```
