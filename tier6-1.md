@@ -15,5 +15,12 @@ a，这里collect后不标注类型应该是因为它能根据上下文自动推
 b，注意这里collect指定类型的格式。  
 c，不加join的话结果就是个String组成的vector。加了它让其变为一个String。join的作用大概是把vector这样的复合值变为单值。
 ***
-4 
+4 cccc Counting Duplicates 
+***
+5 cccc Persistent Bugger.
 
+
+***
+以newest排序，但只做500以上收藏的题目
+***
+1. Create Phone Number
